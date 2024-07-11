@@ -1,0 +1,10 @@
+{
+    "name": "com.steamworks.facepunch",
+    "displayName": "FacePunch.Steamworks",
+    "description": "Unity Plugin for `Another` fucking c# Steamworks implementation.",
+    "version": "0.0.2",
+    "unity": "2021.3",
+    "license": "MIT",
+    "author": "no one",
+    "dependencies": {}
+}
