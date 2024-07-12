@@ -1,5 +1,7 @@
 # UPlugin-FacePunch
 
+[Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) for Plugin manager
+
 ## No identity version
 
 ```json
