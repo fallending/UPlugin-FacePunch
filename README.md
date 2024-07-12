@@ -10,6 +10,8 @@
 
 ## V2.3.2
 
+* Compiled by VS2022
+
 ```json
 {
     "com.steamworks.facepunch": "https://github.com/fallending/UPlugin-FacePunch.git?path=/#v2.3.2"
